@@ -2,7 +2,7 @@
 
   <img src="public/Chatyol.svg" alt="ChatYol AI Logo" width="80" height="80" />
 
-  # 🤖 ChatYol AI — Next.js 14 Workspace & Intelligent Chatbot
+  # 🤖 ChatYol AI — Fast Workspace & Intelligent Chatbot
 
   <p align="center">
     <strong>Platform Asisten AI Berkecepatan Tinggi & Landing Page Modern Bertenaga Groq LPU™ Engine</strong>
